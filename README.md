@@ -38,8 +38,8 @@ Follow these steps to set up the project locally.
 
 ### 1. Clone the repository:
 ```bash
-git clone [https://github.com/vishuweb/Airbnb-Review-NLP-Analyzer.git](https://github.com/vishuweb/Airbnb-Review-NLP-Analyzer.git)
-cd Advanced-Airbnb-Review-Analyzer
+git clone https://github.com/vishuweb/airbnb-review-nlp-analyzer.git
+cd airbnb-review-nlp-analyzer
 ```
 
 ### 2. Download the Dataset:
